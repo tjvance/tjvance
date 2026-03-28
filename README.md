@@ -2,7 +2,7 @@
 
 I build AI-enabled applications with a structured, strategy-aware approach that combines product thinking, system design, and disciplined implementation.
 
-I’m interested in work where the challenge is a combination of building software and designing systemst that are:
+I’m interested in work where the challenge is a combination of building software and designing systems that are:
 - useful in real workflows
 - trustworthy for users
 - architecturally sound
